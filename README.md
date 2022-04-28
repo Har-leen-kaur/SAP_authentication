@@ -7,6 +7,6 @@ Enter the username and password with which you have registered.
 Change the diagram ID in getDiag.py. 
 
 ```
-cd authentication
+cd sap_authentication
 python3 -m getDiag
 ```
