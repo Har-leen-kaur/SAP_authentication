@@ -10,4 +10,3 @@ Change the diagram ID in getDiag.py.
 cd authentication
 python3 -m getDiag
 ```
-# SAP
